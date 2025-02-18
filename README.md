@@ -54,7 +54,7 @@ This is a simple **REST API** built with **Express.js** that lets you manage a c
 ### 🗑️ Delete a Book  
 - **URL:** `DELETE /books/:id`  
 - **Response:**  
-  - `"message": "Not cool, you deleted a book instead of reading it! 🤨"`  
+  - `"message": "You deleted a book instead of reading it! 😭"`  
 
 ---
 
